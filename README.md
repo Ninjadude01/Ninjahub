@@ -1,7 +1,20 @@
 # Ninjahub
 
-My project is a usb hub that uses a usb c as the upstream connector, and 2 usb c + 2 usb a as the downsteam connectors.
+My project is a usb hub that uses a usb c as the upstream connector, and 2 usb c + 2 usb a as the downsteam connectors. It has a unqiue 18-sided design, and the pcb contains holes so I can use screws to secure it onto the case. I decided to make this project because I do not have a usb hub, and making one seemed like a fun challenge! I defenetly learned a lot while building this project, so I am glad I did not try to do another simple project like a 3d modeled phone stand.
 
+# Renders 
+![1](Pictures_of_Project/Screenshot%202026-04-19%20201134.png)
+![1](Pictures_of_Project/Screenshot%202026-04-19%20201148.png)
+![1](Pictures_of_Project/Screenshot%202026-04-19%20201203.png)
+
+# Schematic Diagram
+![1](Pictures_of_Project/Screenshot%202026-04-19%20194734.png)
+
+# PCB
+![1](Pictures_of_Project/Screenshot%202026-04-19%20194744.png)
+
+# PCB 3D
+![1](Pictures_of_Project/Screenshot%202026-04-19%20194755.png)
 
 # BOM 
 (exported from EasyEDA, this project uses PCBA, 5 boards for $28.33 USD)
