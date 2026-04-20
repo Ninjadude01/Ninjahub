@@ -3,7 +3,8 @@
 My project is a usb hub that uses a usb c as the upstream connector, and 2 usb c + 2 usb a as the downsteam connectors.
 
 
-# BOM
+# BOM 
+(exported from EasyEDA, this project uses PCBA)
 |No.|Quantity|Comment              |Designator              |Footprint                       |Value|Manufacturer Part    |Manufacturer   |Supplier Part|Supplier|
 |---|--------|---------------------|------------------------|--------------------------------|-----|---------------------|---------------|-------------|--------|
 |1  |8       |1uF                  |C1,C2,C3,C4,C5,C6,C8,C10|C0603                           |1uF  |                     |               |             |        |
