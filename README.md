@@ -4,7 +4,7 @@ My project is a usb hub that uses a usb c as the upstream connector, and 2 usb c
 
 
 # BOM 
-(exported from EasyEDA, this project uses PCBA)
+(exported from EasyEDA, this project uses PCBA, 5 boards for $28.33 USD)
 |No.|Quantity|Comment              |Designator              |Footprint                       |Value|Manufacturer Part    |Manufacturer   |Supplier Part|Supplier|
 |---|--------|---------------------|------------------------|--------------------------------|-----|---------------------|---------------|-------------|--------|
 |1  |8       |1uF                  |C1,C2,C3,C4,C5,C6,C8,C10|C0603                           |1uF  |                     |               |             |        |
