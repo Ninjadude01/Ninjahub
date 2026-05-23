@@ -6,7 +6,7 @@ My project is a usb hub that uses a usb c as the upstream connector, and 2 usb c
 # IRL Photos
 ![1](Pictures_of_Project/IMG_5409.jpg)
 ![1](Pictures_of_Project/IMG_5395.jpg)
-![1](Pictures_of_Project/IMG_5396.jpgg)
+![1](Pictures_of_Project/IMG_5396.jpg)
 ![1](Pictures_of_Project/IMG_2128.jpg)
 
 # Renders 
