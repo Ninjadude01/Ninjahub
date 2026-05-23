@@ -2,6 +2,13 @@
 
 My project is a usb hub that uses a usb c as the upstream connector, and 2 usb c + 2 usb a as the downsteam connectors. It has a unqiue 18-sided design, and the pcb contains holes so I can use screws to secure it onto the case. I decided to make this project because I do not have a usb hub, and making one seemed like a fun challenge! I defenetly learned a lot while building this project, so I am glad I did not try to do another simple project like a 3d modeled phone stand.
 
+
+# IRL Photos
+![1](Pictures_of_Project/IMG_5409.jpg)
+![1](Pictures_of_Project/IMG_5395.jpg)
+![1](Pictures_of_Project/IMG_5396.jpgg)
+![1](Pictures_of_Project/IMG_2128.jpg)
+
 # Renders 
 ![1](Pictures_of_Project/Screenshot%202026-04-19%20201134.png)
 ![1](Pictures_of_Project/Screenshot%202026-04-19%20201148.png)
